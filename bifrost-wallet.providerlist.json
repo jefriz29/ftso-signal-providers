@@ -2179,6 +2179,15 @@
       "address": "0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E",
       "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x76E5591DdA384a30Eeb53FD4059C9570eE072E7E.png",
       "listed": true
+    },
+    {
+      "chainId": 14,
+      "name": "GBX Crypto Bank",
+      "description": "Powering Flare with a premium Full Entity Node and FTSO provider—offering top-tier uptime, fast and accurate data feeds, and optimized rewards for delegators who expect performance.",
+      "url": "https://gbxdigital.com/GBX-Crypto-Bank",
+      "address": "0x3aA0Fa77F07398ADe354eDC1df00fb4a6469A081",
+      "logoURI": "https://raw.githubusercontent.com/TowoLabs/ftso-signal-providers/master/assets/0x3aA0Fa77F07398ADe354eDC1df00fb4a6469A081.png",
+      "listed": true
     }
   ]
 }
